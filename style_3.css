@@ -1,0 +1,64 @@
+h1{
+    background-color:grey;
+}
+#mes{
+    background-color:grey;
+    float:left;
+    max-width:70px;   
+    height:30px;
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#cal{
+    background-color:grey;
+    float:left;
+    max-width:70px;   
+    height:30px;
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#des{
+    background-color:grey;
+    float:left;
+    max-width:70px;   
+    height:30px;
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#edu{
+    background-color:grey;
+    float:left;
+    max-width:70px;   
+    height:30px;
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#exp{
+    background-color:grey;
+    float:left;
+    max-width:70px;   
+    height:30px;
+    padding:0px;
+    margin:0px;
+    display:block;
+    box-sizing:border-box;
+}
+.experience{
+    border:1px solid grey 10px;
+}
+.call{
+    border:2px solid grey 10px;
+}
+.name{
+    border:3px solid grey 10px;
+}
+.description{
+    border:1px solid grey 10px;
+}
+.education{
+    border:2px solid grey 10px;
+}
